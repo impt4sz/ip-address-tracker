@@ -13,9 +13,7 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
+ 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
@@ -36,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/WassimZo/Ip-Tracker](https://github.com/WassimZo/Ip-Tracker)
+- Solution URL: [https://github.com/WassimZo/Ip-Tracker](https://github.com/harsha-rvh/ip-address-tracker)
 - Live Site URL: [https://ip-tracker-wass.vercel.app/](https://ip-tracker-wass.vercel.app/)
 
 ## My process
@@ -61,8 +59,3 @@ This project was my first experience on Frontend Mentor. It involved a simple ap
 - [React-Leaflet Package](https://github.com/PaulLeCam/react-leaflet)
 - [Tailwindcss Documentation](https://tailwindcss.com/docs/installation) 
 - [Geo-Ipify API](https://geo.ipify.org/docs)
-
-## Author
-
-- Frontend Mentor - [@WassimZo](https://www.frontendmentor.io/profile/WassimZo)
-- LinkedIn - [Wassim Zouaoui](https://www.linkedin.com/in/wassim-zouaoui-94354a1b8/)
