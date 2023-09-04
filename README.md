@@ -6,7 +6,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,15 +26,10 @@ Users should be able to:
 - See their own IP address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 
-### Screenshot
-
-!["IP TRACKER"](/images/Screenshot.png)
-
-
 ### Links
 
-- Solution URL: [https://github.com/WassimZo/Ip-Tracker](https://github.com/harsha-rvh/ip-address-tracker)
-- Live Site URL: [https://ip-tracker-wass.vercel.app/](https://ip-tracker-wass.vercel.app/)
+- Solution URL: [Github](https://github.com/harsha-rvh/ip-address-tracker)
+- Live Site URL: [Vercel](https://ip-tracker-wass.vercel.app/)
 
 ## My process
 
