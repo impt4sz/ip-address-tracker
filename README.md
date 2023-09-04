@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/harsha-rvh/ip-address-tracker)
-- Live Site URL: [Vercel](https://ip-tracker-wass.vercel.app/)
+- Live Site URL: [Vercel](https://ip-address-tracker-qomosro8a-harsha-rvh.vercel.app/)
 
 ## My process
 
